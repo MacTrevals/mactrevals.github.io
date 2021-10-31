@@ -1615,7 +1615,7 @@
   right: 116px;
   width: 200px;
   height: 120px;
-  background: url("https://i.imgur.com/edBkw3a.png") no-repeat;
+  background: url("https://i.imgur.com/edBkw3a.png?1") no-repeat;
   background-size: 100%;
 }
 :root .app-2rEoOp::after {
@@ -1623,7 +1623,7 @@
   right: 45%;
   width: 40px;
   height: 40px;
-  background: url("https://i.imgur.com/9HUbNvw.png");
+  background: url("https://i.imgur.com/RpFv23j.png");
   background-size: 100%;
 }
 :root .layers-3iHuyZ::before {
@@ -1632,7 +1632,7 @@
   right: 0;
   width: 20px;
   height: 50px;
-  background: url("https://i.imgur.com/sH0tN9B.png") no-repeat;
+  background: url("https://i.imgur.com/ONJB8ab.png") no-repeat;
   background-size: 100%;
 }
 :root .layers-3iHuyZ::after {
@@ -1640,7 +1640,7 @@
   right: 100px;
   width: 25px;
   height: 25px;
-  background: url("https://i.imgur.com/27ARLYm.png") no-repeat;
+  background: url("https://i.imgur.com/OduBc6d.png") no-repeat;
   background-size: 100%;
 }
 :root .bg-h5JY_x::after {
@@ -1648,7 +1648,7 @@
   right: 385px;
   width: 30px;
   height: 30px;
-  background: url("https://i.imgur.com/cdSyTVF.png") no-repeat;
+  background: url("https://i.imgur.com/pBKJB8r.png") no-repeat;
   background-size: 100%;
 }
 :root .bg-h5JY_x::before {
@@ -1657,7 +1657,7 @@
   right: 430px;
   width: 30px;
   height: 40px;
-  background: url("https://i.imgur.com/Uyd5gsl.png") no-repeat;
+  background: url("https://i.imgur.com/dFrcJxr.png") no-repeat;
   background-size: 100%;
 }
 @media (max-width: 1350px) {
@@ -1815,7 +1815,7 @@
   left: 50px;
   width: 200px;
   height: 200px;
-  background: url("https://1.bp.blogspot.com/-cGHxwieEuj0/XCZSxwFrTgI/AAAAAAAAXwA/l06smaRF1xIaOf5ZdEjHoRragI4OuHwpwCLcBGAs/w0/49a563b3288442a0a2cc6429f5dde3826026f5cf_hq.gif") center/80% no-repeat;
+  background: url("https://i.imgur.com/7gIMTwP.gif") center/100% no-repeat;
 }
 :root #permissions-modal-wrapper #permissions-modal {
   box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(56, 31, 31, 0.11) !important;
@@ -1857,7 +1857,7 @@
   }
 
   .container-2lgZY8::after {
-    content: "Stay comfy ❤";
+    content: "Raíssa Fofura❤";
     position: fixed;
     top: 220px;
     bottom: 85px;
